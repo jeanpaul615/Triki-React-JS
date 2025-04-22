@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd7615d4-befa-4537-86ba-b5769ec0c8a5)
+
 
 # Triki-React-JS
 
@@ -22,9 +22,8 @@ Este proyecto utiliza las siguientes tecnologías:
 
 ## Captura de pantalla
 
-![Captura de pantalla del juego](ruta/a/tu/captura.png)
+![image](https://github.com/user-attachments/assets/dd7615d4-befa-4537-86ba-b5769ec0c8a5)
 
-*(Asegúrate de reemplazar `ruta/a/tu/captura.png` con la URL o ruta de la imagen de la captura de pantalla.)*
 
 ## Instalación
 
